@@ -1,1 +1,3 @@
 # kaggle
+
+This repository consists of python scripts and Jupyter notebooks developed in answering Kaggle competitons. As a new user of kaggle (Jan. 2019), I first started off with the getting started challenges (often guided by tutorials) and progressed towards my own development. To demark these differences, the former notebooks are given in the **gettingStarted** directory. As becomes necessary, further information will be detailed in the future.
